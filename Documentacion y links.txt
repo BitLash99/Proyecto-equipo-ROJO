@@ -1,0 +1,27 @@
+﻿DOJO 8-9
+                                  Grupo ROJO
+                              Semáforo con contador
+
+
+El proyecto consiste en hacer un semáforo como el que vimos en clase,pero con un contador para cada estado,5 seg en rojo,2 en amarillo y 5 mas en verde.
+
+
+Integrantes:
+*Hernan Mielniczuk
+*Hernan Gottardi
+*Alan Molina
+*Azul Mildenberger
+*Enzo Pose
+*Eleazar Pelayes
+*Luis Parra
+*Joaquin Quiroga
+*Juan Pablo Gonzalez
+*Julian Jensen
+*Julian Ojeda
+*Maximiliano Liou
+*Ezequiel Vallejos Lugo
+
+
+Link Gdb:https://onlinegdb.com/FqnlaKyeH
+
+LinkTinkercad:https://www.tinkercad.com/things/cuBwuaC3VAl-copy-of-31-enzopose/editel?sharecode=wq0yRGk2hAmBt5zuqEp9TURmscu_k4RieKUP-x9wRCg
